@@ -1,0 +1,18 @@
+# Archivos de entorno y credenciales (¡NUNCA SUBIR A GIT!)
+.env
+
+# Entorno virtual
+venv/
+env/
+ENV/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de VS Code
+.vscode/
+
+# Node / React (por si luego agregas el frontend aquí)
+node_modules/
+dist/
